@@ -1,2 +1,2 @@
 # Pneumonia-detection
-Pneumoniaq detection using kaggle dataset &amp; tensorflow
+Pneumonia detection using kaggle dataset &amp; tensorflow
